@@ -1,0 +1,77 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+.heed {
+    color: rgb(149, 255, 0);
+}
+
+body
+{
+background-image: linear-gradient(to right top, #fdc200, #ff5e00, #bbff00, #53e8f3, #00ce56, #00415f);
+}
+
+.m
+{
+	color: yellow;font-family: 'Normal 400 italic';font-size: 45px; margin-top: 80px;
+}
+
+.a
+{
+	color: green;font-family: 'Normal 400 italic';font-size: 45px; margin-top: 80px;
+}
+
+.i
+{
+	color: whitesmoke;font-family: 'Normal 400 italic';font-size: 45px; margin-top: 80px;
+}
+
+.n
+{
+	color: #BFD58E ;font-family: 'Normal 400 italic';font-size: 45px; margin-top: 80px;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 1250px;
+    height: 500px;
+  }
+
+#aboutUs
+{
+	font-size: 24px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.boxed
+{
+	border: 7px solid green ;
+}
+
+
+#Head
+{
+	font-size: 24px;
+}
+
+
+#Location_Contact
+{
+	font-size: 24px;
+}
+
+#list{
+    background-color: black;
+    color: white;
+    list-style: none;
+	font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 27px;
+	margin-bottom: 7px;
+    z-index: 17px ;
+    cursor: pointer;
+}
